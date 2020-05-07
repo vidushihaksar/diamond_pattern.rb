@@ -30,6 +30,5 @@ while row < n do
     nspace += 1;
   end
 
-    
-
+  
 end
